@@ -4,6 +4,7 @@
 		<TargetFramework>net6.0</TargetFramework>
 		<Nullable>disable</Nullable>
 		<ImplicitUsings>enable</ImplicitUsings>
+		<UserSecretsId>d4ad494c-bb3d-4217-8c86-76b9852161d2</UserSecretsId>
 	</PropertyGroup>
 	<ItemGroup>
 		<PackageReference Include="EntityFramework" Version="6.4.4" />
